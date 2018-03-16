@@ -1,0 +1,7 @@
+/src/packages
+/src/Listify/Listify.csproj.user
+/src/Listify/bin
+/src/Listify/obj
+/src/.vs/Listify/v15/.suo
+/src/.vs/Listify/v15/Server/sqlite3/db.lock
+/src/.vs/Listify/v15/Server/sqlite3/storage.ide
